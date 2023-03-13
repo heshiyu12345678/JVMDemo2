@@ -33,6 +33,7 @@ public class BufferDemo1 {
             pos= channel.read(buffer);
             //test
             //san
+            //hot-fix
         }
         channel.close();
     }
