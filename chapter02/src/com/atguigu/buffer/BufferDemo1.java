@@ -31,6 +31,7 @@ public class BufferDemo1 {
             }
             buffer.clear();
             pos= channel.read(buffer);
+            //test
         }
         channel.close();
     }
