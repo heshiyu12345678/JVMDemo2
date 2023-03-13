@@ -32,6 +32,7 @@ public class BufferDemo1 {
             buffer.clear();
             pos= channel.read(buffer);
             //test
+            //san
         }
         channel.close();
     }
