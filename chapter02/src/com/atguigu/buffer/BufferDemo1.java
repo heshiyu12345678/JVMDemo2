@@ -34,6 +34,7 @@ public class BufferDemo1 {
             //test
             //san
             //hot-fix
+            //hotadd
         }
         channel.close();
     }
